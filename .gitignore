@@ -1,0 +1,15 @@
+UI/src_ui/
+src/client/.cocos-project.json
+src/client/Classes/api/LoadingScene.lua
+src/client/Classes/api/lua_LoadingScene_auto_api.lua
+src/client/Classes/desktop.ini
+src/client/Classes/lua_LoadingScene_auto.cpp
+src/client/CMakeLists.txt
+src/client/Classes/lua_LoadingScene_auto.hpp
+src/client/proj.android-studio/
+src/client/proj.android/
+src/client/proj.ios_mac/
+src/client/proj.linux/
+src/client/proj.win10/
+src/client/proj.win32/
+src/client/proj.win8.1-universal/
