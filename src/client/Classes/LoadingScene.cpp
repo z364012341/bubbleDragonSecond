@@ -50,7 +50,6 @@ namespace bubble_second {
         cocos2d::LayerColor* layer = cocos2d::LayerColor::create(cocos2d::Color4B::ORANGE, visibleSize.width, visibleSize.height);
         this->addChild(layer);
 
-
         cocos2d::Label* label = cocos2d::Label::createWithSystemFont("   Loading...", "", 80 * SmartScaleController::getInstance()->getPlayAreaZoom());
         label->setPosition(visibleSize.width/2, visibleSize.height/2);
         this->addChild(label);

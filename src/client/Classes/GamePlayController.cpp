@@ -56,7 +56,7 @@ namespace bubble_second {
         key_to_handle_map_[kBubbleRainbowSeal] = &GamePlayController::disposeContactWithColorBubble;
         key_to_handle_map_[kBubbleMutipleSeal] = &GamePlayController::disposeContactWithColorBubble;
         key_to_handle_map_[kBubbleWindmill] = &GamePlayController::disposeContactWithColorBubble;
-
+        
         name_to_contact_handle_[PREPARE_BUBBLE_NAME][MAP_BUBBLE_NAME] = [=](cocos2d::Node* nodeA, cocos2d::Node* nodeB) {this->disposeContactWithBubble(nodeA, nodeB); };
         name_to_contact_handle_[MAP_BUBBLE_NAME][PREPARE_BUBBLE_NAME] = [=](cocos2d::Node* nodeA, cocos2d::Node* nodeB) {this->disposeContactWithBubble(nodeB, nodeA); };
        
