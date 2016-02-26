@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>pause</key>
+    <string>pause</string>
+    <key>volume_on</key>
+    <string>on</string>
+    <key>volume_off</key>
+    <string>off</string>
+    <key>alert_level_1</key>
+    <string>THE</string>
+    <key>alert_level_2</key>
+    <string>LEVEL</string>
+    <key>add_ten_bubble</key>
+    <string>+10 Bubble</string>
+    <key>buy_ten_bubble_label</key>
+    <string>use up bubble, would you want to buy 10 bubble?</string>
+    <key>rewards_label</key>
+    <string>REWARDS: </string>
+    <key>score_label</key>
+    <string>SCORE: </string>
+    <key>kTopEliminate</key>
+    <string>TOP_ELIMINATE</string>
+    <key>kRescueAnimal</key>
+    <string>RESCUE_ANIMAL</string>
+    <key>kDestroyRainbowSeal</key>
+    <string>BEAT_THE_ROBBER</string>
+    <key>kWindmill</key>
+    <string>RESCUE_GHOST</string>
+    <key>setting</key>
+    <string>SETTING</string>
+    <key>nickname</key>
+    <string>Nickname</string>
+    <key>choose_props</key>
+    <string>SELECT PROPS</string>
+	</dict>
+</plist>

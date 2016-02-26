@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<include>
+    <bubbles>
+        <data type="2" row="0" col="0" cloud="0" path=""/>
+        <data type="2" row="0" col="1" cloud="0" path=""/>
+        <data type="2" row="0" col="2" cloud="0" path=""/>
+        <data type="2" row="0" col="3" cloud="0" path=""/>
+        <data type="2" row="0" col="4" cloud="0" path=""/>
+        <data type="2" row="0" col="5" cloud="0" path=""/>
+        <data type="2" row="0" col="6" cloud="0" path=""/>
+        <data type="2" row="0" col="7" cloud="0" path=""/>
+        <data type="2" row="0" col="8" cloud="0" path=""/>
+        <data type="2" row="0" col="9" cloud="0" path=""/>
+        <data type="2" row="0" col="10" cloud="0" path=""/>
+        <data type="5" row="1" col="0" cloud="0" path=""/>
+        <data type="5" row="1" col="1" cloud="0" path=""/>
+        <data type="5" row="1" col="2" cloud="0" path=""/>
+        <data type="5" row="1" col="5" cloud="0" path=""/>
+        <data type="2" row="1" col="8" cloud="0" path=""/>
+        <data type="2" row="1" col="9" cloud="0" path=""/>
+        <data type="5" row="2" col="2" cloud="0" path=""/>
+        <data type="18" row="2" col="4" cloud="0" path=""/>
+        <data type="18" row="2" col="7" cloud="0" path=""/>
+        <data type="4" row="2" col="9" cloud="0" path=""/>
+        <data type="5" row="3" col="2" cloud="0" path=""/>
+        <data type="5" row="3" col="5" cloud="0" path=""/>
+        <data type="4" row="3" col="8" cloud="0" path=""/>
+        <data type="7" row="4" col="1" cloud="0" path=""/>
+        <data type="5" row="4" col="3" cloud="0" path=""/>
+        <data type="5" row="4" col="5" cloud="0" path=""/>
+        <data type="4" row="4" col="6" cloud="0" path=""/>
+        <data type="4" row="4" col="7" cloud="0" path=""/>
+        <data type="4" row="4" col="8" cloud="0" path=""/>
+    </bubbles>
+    <info bubbleNum="35" type="1" start1="" start2="" start3 ="" colors ="0000000"/>
+</include>

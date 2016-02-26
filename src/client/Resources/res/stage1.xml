@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<include>
+    <bubbles>
+        <data type="7" row="0" col="0" cloud="0" path=""/>
+        <data type="0" row="0" col="1" cloud="0" path=""/>
+        <data type="0" row="0" col="2" cloud="0" path=""/>
+        <data type="0" row="0" col="3" cloud="0" path=""/>
+        <data type="0" row="0" col="4" cloud="0" path=""/>
+        <data type="1" row="0" col="5" cloud="0" path=""/>
+        <data type="2" row="0" col="6" cloud="0" path=""/>
+        <data type="3" row="0" col="7" cloud="0" path=""/>
+        <data type="4" row="0" col="8" cloud="0" path=""/>
+        <data type="0" row="0" col="9" cloud="0" path=""/>
+        <data type="0" row="0" col="10" cloud="0" path=""/>
+        <data type="9" row="1" col="2" cloud="0" path=""/>
+    </bubbles>
+    <info bubbleNum="35" type="17" start1="10" start2="15" start3 ="20" colors ="1111111"/>
+</include>

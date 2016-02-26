@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>add_10_bubble</key>
+		<dict>
+			<key>coin</key>
+      <string>3000</string>
+      <key>diamond</key>
+      <string>10</string>
+		</dict>
+    <key>aiming_line</key>
+    <dict>
+      <key>coin</key>
+      <string>1001</string>
+      <key>diamond</key>
+      <string>10</string>
+    </dict>
+    <key>add_special_bubble</key>
+    <dict>
+      <key>coin</key>
+      <string>1000</string>
+      <key>diamond</key>
+      <string>10</string>
+    </dict>
+	</dict>
+</plist>

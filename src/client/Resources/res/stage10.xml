@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<include>
+    <bubbles>
+        <data type="0" row="5" col="4" cloud="0" path=""/>
+        <data type="20" row="5" col="5" cloud="0" path=""/>
+        <data type="21" row="5" col="6" cloud="0" path=""/>
+    </bubbles>
+    <info bubbleNum="4" type="8" start1="1" start2="16" start3 ="20" colors ="1111111"/>
+</include>

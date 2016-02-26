@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<include>
+    <bubbles>
+        <data type="5" row="0" col="1" cloud="0" path=""/>
+        <data type="5" row="0" col="2" cloud="0" path=""/>
+        <data type="5" row="0" col="3" cloud="0" path=""/>
+        <data type="5" row="0" col="4" cloud="0" path=""/>
+        <data type="5" row="0" col="5" cloud="0" path=""/>
+        <data type="5" row="0" col="6" cloud="0" path=""/>
+        <data type="5" row="0" col="7" cloud="0" path=""/>
+        <data type="5" row="0" col="8" cloud="0" path=""/>
+        <data type="5" row="1" col="4" cloud="0" path=""/>
+        <data type="5" row="1" col="5" cloud="0" path=""/>
+        <data type="6" row="2" col="5" cloud="0" path=""/>
+        <data type="6" row="3" col="5" cloud="0" path=""/>
+        <data type="5" row="4" col="5" cloud="0" path=""/>
+        <data type="5" row="5" col="4" cloud="0" path=""/>
+        <data type="5" row="6" col="5" cloud="0" path=""/>
+        <data type="6" row="7" col="4" cloud="0" path=""/>
+        <data type="6" row="8" col="5" cloud="0" path=""/>
+        <data type="5" row="9" col="4" cloud="0" path=""/>
+        <data type="5" row="10" col="5" cloud="0" path=""/>
+        <data type="5" row="11" col="4" cloud="0" path=""/>
+        <data type="6" row="12" col="4" cloud="0" path=""/>
+        <data type="6" row="13" col="4" cloud="0" path=""/>
+        <data type="5" row="14" col="5" cloud="0" path=""/>
+        <data type="5" row="15" col="4" cloud="0" path=""/>
+        <data type="5" row="16" col="5" cloud="0" path=""/>
+        <data type="6" row="17" col="4" cloud="0" path=""/>
+        <data type="0" row="17" col="5" cloud="0" path=""/>
+        <data type="0" row="17" col="6" cloud="0" path=""/>
+        <data type="6" row="18" col="5" cloud="0" path=""/>
+        <data type="0" row="18" col="6" cloud="0" path=""/>
+        <data type="6" row="19" col="5" cloud="0" path=""/>
+        <data type="5" row="20" col="5" cloud="0" path=""/>
+        <data type="5" row="21" col="4" cloud="0" path=""/>
+        <data type="6" row="22" col="4" cloud="0" path=""/>
+        <data type="5" row="22" col="5" cloud="0" path=""/>
+        <data type="6" row="23" col="4" cloud="0" path=""/>
+        <data type="6" row="24" col="5" cloud="0" path=""/>
+        <data type="5" row="25" col="4" cloud="0" path=""/>
+        <data type="5" row="26" col="5" cloud="0" path=""/>
+        <data type="5" row="27" col="4" cloud="0" path=""/>
+        <data type="1" row="27" col="5" cloud="0" path=""/>
+        <data type="6" row="28" col="4" cloud="0" path=""/>
+        <data type="1" row="28" col="5" cloud="0" path=""/>
+        <data type="6" row="29" col="4" cloud="0" path=""/>
+        <data type="6" row="30" col="5" cloud="0" path=""/>
+        <data type="5" row="31" col="4" cloud="0" path=""/>
+        <data type="5" row="32" col="5" cloud="0" path=""/>
+        <data type="5" row="33" col="4" cloud="0" path=""/>
+        <data type="1" row="34" col="5" cloud="0" path=""/>
+        <data type="1" row="35" col="4" cloud="0" path=""/>
+        <data type="1" row="36" col="5" cloud="0" path=""/>
+        <data type="0" row="37" col="5" cloud="0" path=""/>
+        <data type="0" row="38" col="5" cloud="0" path=""/>
+        <data type="0" row="39" col="4" cloud="0" path=""/>
+    </bubbles>
+    <info bubbleNum="01" type="17" start1="050" start2="0100" start3 ="0500" colors ="1111111"/>
+</include>

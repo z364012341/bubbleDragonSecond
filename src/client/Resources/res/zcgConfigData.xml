@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<include>
+  <data key="1001" value="500" des="win平台下游戏窗口的宽"/>
+  <data key="1002" value="765" des="win平台下游戏窗口的高"/>
+  <data key="1003" value="0" des="win平台下是否打开cmd窗口； 0：否 1：是"/>
+  <data key="1004" value="1.0" des="游戏中显示的版本号"/>
+</include>

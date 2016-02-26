@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+	<key>pause</key>
+    <string>暂停</string>
+    <key>volume_on</key>
+    <string>开</string>
+    <key>volume_off</key>
+    <string>关</string>
+    <key>alert_level_1</key>
+    <string>第</string>
+    <key>alert_level_2</key>
+    <string>关</string>
+    <key>add_ten_bubble</key>
+    <string>+10个泡泡</string>
+    <key>buy_ten_bubble_label</key>
+    <string>泡泡用完了, 加10个泡泡接着玩儿好不?</string>
+    <key>rewards_label</key>
+    <string>奖励: </string>
+    <key>score_label</key>
+    <string>分数: </string>
+    <key>kTopEliminate</key>
+    <string>消除顶部泡泡</string>
+    <key>kRescueAnimal</key>
+    <string>解救动物</string>
+    <key>kDestroyRainbowSeal</key>
+    <string>击败强盗</string>
+    <key>kWindmill</key>
+    <string>解救幽灵</string>
+    <key>setting</key>
+    <string>设置</string>
+    <key>nickname</key>
+    <string>昵称</string>
+    <key>choose_props</key>
+    <string>选择道具</string>
+	</dict>
+</plist>
